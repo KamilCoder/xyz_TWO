@@ -8,15 +8,15 @@ docker image or python raw files.
 To run Fast Cezar from docker image,
 you must pull image by tapping in terminal:
 
-'''
+```
 docker pull kamilcoder/fast_cezar-docker
-'''
+```
 
 then simply run it by:
 
-'''
+```
 docker run -p 8000:8000 kamilcoder/fast_cezar-docker
-'''
+```
 
 You should be now able to connect to the application
 by browser or simply by curl at: https://0.0.0.0:8000/
@@ -33,28 +33,28 @@ stuff that you will need...
 Open your terminal and let your keyboard fire!
 
 
-'''
+```
 pip3 install fastapi
 pip3 install uvicorn
-'''
+```
 
 next download files from github:
 
-'''
-git clone https://github.com/KamilCoder/xyz_TWO/
-'''
+```
+git clone https://github.com/KamilCoder/xyz_TWO.git
+```
 
 then go inside xyz_TWO directory like this:
 
-'''
+```
 cd xyz_TWO
-'''
+```
 
 and run app like this:
 
-'''
+```
 uvicorn fast_cezar:app
-'''
+```
 
 Go! Boom! Here you have! 
 Now your Fast Cezar is running at http://localhost:8000/
