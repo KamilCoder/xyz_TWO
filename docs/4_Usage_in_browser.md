@@ -9,15 +9,16 @@ Then open your browser and type address:
 ### To encode your text:
 
 ##### When it's run with docker:
-'''
+
+```
 http://0.0.0.0:8000/encoder/YOUR_TEXT
-'''
+```
 
 ##### When it's run with raw python files:
 
-'''
+```
 http://localhost:8000/encoder/YOUR_TEXT
-'''
+```
 
 When the address opens you will be asked 
 for a login and password - You shouldn't be lying.
@@ -26,15 +27,15 @@ for a login and password - You shouldn't be lying.
 
 ##### For docker:
 
-'''
+```
 http://0.0.0.0:8000/decoder/YOUR_ENCODED_TEXT
-'''
+```
 
 ##### For raw python files:
 
-'''
+```
 http://localhost:8000/decoder/YOUR_ENCODED_TEXT
-'''
+```
 
 You will be also asked for login and pass.
 
