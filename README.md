@@ -8,8 +8,7 @@ Cezar Cipher API based on FastAPI
 * General info
 * Technologies
 * Setup
-* How to use
-* Examples
+* How to use / Examples
 
 
 ### General info
