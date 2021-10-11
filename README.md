@@ -29,40 +29,38 @@ Fast Cezar use Python3 with FastAPI
 You can simply use:
 Docker:
 
-'''
+```
 docker pull kamilcoder/fast_cezar-docker
-
-'''
+```
 
 or:
 
-'''
+```
 git clone https://github.com/KamilCoder/xyz_TWO/
-'''
+```
 
 ### How to use / Examples
 
 For example - using Fast Cezar as docker image, and curl from terminal:
 
-'''
+```
 curl -H "Content-Type: application/json" --request GET --user LOGIN:PASSWORD http://0.0.0.0:8000/encoder/dog
-'''
+```
 
 gives you response with json like:
 
-'''
+```
 cihper : itl
-'''
+```
 
 For example to decode you text using uvicorn: fast_cezar:app and browser:
 
-'''
+```
 http://localhost:8000/decoder/itl
-'''
+```
 
 gives response:
 
-'''
+```
 decoded : dog
-'''
-
+```
