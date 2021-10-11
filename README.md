@@ -35,7 +35,7 @@ docker pull kamilcoder/fast_cezar-docker
 or:
 
 ```
-git clone https://github.com/KamilCoder/xyz_TWO/
+git clone https://github.com/KamilCoder/xyz_TWO.git
 ```
 
 ### How to use / Examples
