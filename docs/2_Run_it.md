@@ -44,10 +44,10 @@ next download files from github:
 git clone https://github.com/KamilCoder/Fast_Cezar.git
 ```
 
-then go inside xyz_TWO directory like this:
+then go inside Fast_Cezar directory like this:
 
 ```
-cd xyz_TWO
+cd Fast_Cezar
 ```
 
 and run app like this:
