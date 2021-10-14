@@ -41,7 +41,7 @@ pip3 install uvicorn
 next download files from github:
 
 ```
-git clone https://github.com/KamilCoder/xyz_TWO.git
+git clone https://github.com/KamilCoder/Fast_Cezar.git
 ```
 
 then go inside xyz_TWO directory like this:
